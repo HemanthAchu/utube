@@ -1,0 +1,49 @@
+
+.telegram{
+    font-size:9px;
+    margin-bottom:4px;
+    margin-top: 2px;
+    width:100%;
+    font-family: roboto,Arial;
+    
+}
+.telegramab{
+    font-size: 8px;
+    color: grey;
+    margin-bottom:0px;
+    margin-top: 0px;
+
+}
+.telegramabc{
+    font-size: 8px;
+    color: grey;
+    margin-top: 2px;
+}
+.icon{
+    vertical-align:top;
+    height:20px;
+    width: 20px;
+    border-radius:10px;
+}
+.icon1{
+    height: 15px;
+    width: 25px;
+    border-radius: 7px;
+
+}
+.secondicon{
+    margin:0px;
+}
+.appu{
+display: grid;
+grid-template-columns: 25px 1fr;
+
+}
+.video-grid{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:10px;
+    row-gap:5px;
+    margin-left: 58px;
+    margin-top: 40px;
+}

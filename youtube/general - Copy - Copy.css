@@ -1,0 +1,64 @@
+.body{
+    margin:0;
+
+}
+.side-bar{
+    margin-top: 70px;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+   left: 0;
+   bottom: 0;
+   top:0 ;
+   height: 257px;
+   width: 50px;
+   position: fixed;
+   row-gap: 20px;
+   background-color: white;
+}
+.side{
+    height: 52px;
+    margin-bottom: 2px;
+    font-size:6.5px;  
+}
+.side:hover{
+    background-color: lightgray;
+    cursor: pointer;
+}
+.sidead{
+    width: 20px;
+    height: 20px;
+    padding-left: 14px;
+    padding-top: 10px;
+  
+}
+.span{
+    padding-left: 14px;
+}
+.span1{
+    padding-left: 17px;
+}
+.span2{
+    padding-left: 8px;
+}
+.main{
+    cursor: pointer;
+}
+.screen{
+    width:160px;
+    border-radius: 5px;
+}
+.main{
+    width: 160px;
+    height: 155px;
+}
+.main:hover{
+    background-color: rgb(234, 230, 230);
+}
+.asd{
+    width:18px;
+}
+.asd{
+    padding-left:4px;
+    width:8px;
+    
+}
